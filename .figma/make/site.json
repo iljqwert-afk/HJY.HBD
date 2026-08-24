@@ -1,0 +1,10 @@
+{
+  "description": "Celebrate a birthday with a charming pixel-art Noah's Ark themed site featuring mini games, cute characters, sound effects, and inspiring scripture.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
